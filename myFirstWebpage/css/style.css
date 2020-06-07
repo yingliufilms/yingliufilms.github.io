@@ -1,0 +1,32 @@
+h1 {
+
+	font-family: helvetica;
+	font-size: 40px;
+	color: red;
+}
+
+
+/*p {
+	font-size: 80px;
+	font-family: arial;
+	background-color: yellow
+}*/
+
+#my1stID {
+
+	font-family: garamond;
+	color: blue;
+
+}
+
+#my2ndID {
+	font-family: helvetica;
+	color: red;
+
+
+}
+
+
+body {
+	background-color: #f150e6
+}
